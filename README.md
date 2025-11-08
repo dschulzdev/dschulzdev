@@ -4,4 +4,4 @@ Thanks for visiting my profile. Here you'll find projects I develop in my free t
 
 I'm currently looking for new opportunities. If my projects interest you and you'd like me to join your team full-time, please reach out. 
 
-If want to know more about me, check out [my website](https://pages.github.com/)!
+If want to know more about me, check out [my website](https://dschulz.dev)!
